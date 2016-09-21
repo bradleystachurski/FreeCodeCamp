@@ -1,0 +1,20 @@
+{
+  "name": "@stachurski/my_nice_package",
+  "version": "1.0.4",
+  "description": "Well, I guess I'll type some random stuff here. Also in VIM. Look at me world, I use VIM. I must be special.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Brad",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "stachurskipackage.com"
+  },
+  "keywords": [
+    "where"
+  ]
+}
